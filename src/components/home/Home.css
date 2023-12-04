@@ -1,0 +1,10 @@
+.main{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+}
+
+.card>img{
+    width: 100%;
+    aspect-ratio: 1/1;
+}

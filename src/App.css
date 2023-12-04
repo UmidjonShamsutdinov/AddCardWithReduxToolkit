@@ -1,0 +1,7 @@
+.links{
+  display: flex;
+  gap: 30px;
+  position: fixed;
+  top: 0;
+  left: 50%;
+}
